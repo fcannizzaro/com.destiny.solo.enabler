@@ -1,5 +1,5 @@
 import { Action, AppearDisappearEvent, BaseAction } from '@stream-deck-for-node/sdk';
-import { sd } from '../index';
+import { sd } from './index';
 import { dirname, join } from 'path';
 import { WebSocket } from 'ws';
 import { exec } from 'child_process';

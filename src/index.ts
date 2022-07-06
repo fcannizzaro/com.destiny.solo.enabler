@@ -1,5 +1,5 @@
 import { StreamDeck } from '@stream-deck-for-node/sdk';
 
-import './actions/toggle';
+import './toggle';
 
 export const sd = new StreamDeck();

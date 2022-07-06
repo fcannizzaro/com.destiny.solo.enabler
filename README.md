@@ -2,10 +2,8 @@
   <img width="600" src="https://github.com/fcannizzaro/com.destiny.solo.enabler/blob/main/media/header.png?raw=true">
     <h1 align="center">Destiny 2 Solo Enabler for Stream Deck</h1>
     <p  align="center">A Stream Deck plugin to enable/disable the solo mode for Destiny 2</p>
-
+    <img src="https://github.com/fcannizzaro/com.destiny.solo.enabler/actions/workflows/publish-plugin-package.yaml/badge.svg">
 </p>
-
-[![Publish Stream Deck plugin package](https://github.com/fcannizzaro/com.destiny.solo.enabler/actions/workflows/publish-plugin-package.yaml/badge.svg)](https://github.com/fcannizzaro/com.destiny.solo.enabler/actions/workflows/publish-plugin-package.yaml)
 
 ## Installation
 

@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "destiny-solo-enabler",
-  "version": "1.0.8",
+  "version": "1.0.0",
   "author": "Francesco Saverio Cannizzaro (fcannizzaro)",
   "license": "GPL-3",
   "main": "./dist/index.js",
