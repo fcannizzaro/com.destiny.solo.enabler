@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="400" src="https://github.com/fcannizzaro/com.destiny.solo.enabler/blob/main/media/header.png?raw=true">
+  <img width="600" src="https://github.com/fcannizzaro/com.destiny.solo.enabler/blob/main/media/header.png?raw=true">
     <h1 align="center">Destiny Solo Enabler for Stream Deck</h1>
     <p  align="center">A Stream Deck plugin to enable/disable the solo mode for Destiny 2</p>
 </p>
