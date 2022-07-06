@@ -1,0 +1,37 @@
+{
+  "uuid": "com.destiny.solo.enabler",
+  "Name": "Destiny 2 Solo Enabler",
+  "Author": "fcannizzaro",
+  "Description": "Enable/disable firewall rules to close device ports",
+  "Icon": "./icons/pluginIcon",
+  "Version": "1.0.0",
+  "CodePath": "com.destiny.solo.enabler.exe",
+  "SDKVersion": 2,
+  "Software": {
+    "MinimumVersion": "5.0"
+  },
+  "OS": [
+    {
+      "Platform": "windows",
+      "MinimumVersion": "10"
+    }
+  ],
+  "Category": "Destiny 2 Solo Enabler",
+  "CategoryIcon": "icons/category",
+  "Actions": [
+    {
+      "Icon": "icons/toggleIcon",
+      "Name": "Toggle",
+      "States": [
+        {
+          "Image": "icons/solo-mode-off"
+        },
+        {
+          "Image": "icons/solo-mode-on"
+        }
+      ],
+      "Tooltip": "Enable/Disable Solo Mode",
+      "UUID": "com.destiny.solo.enabler.toggle"
+    }
+  ]
+}

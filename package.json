@@ -1,0 +1,27 @@
+{
+  "private": true,
+  "name": "destiny-solo-enabler",
+  "version": "1.0.8",
+  "author": "Francesco Saverio Cannizzaro (fcannizzaro)",
+  "license": "GPL-3",
+  "main": "./dist/index.js",
+  "bin": "./dist/index.js",
+  "scripts": {
+    "start": "npx ts-node ./src/index.ts -debug com.destiny.solo.enabler",
+    "build": "npm run build:ts && npm run build:bin",
+    "build:go": "cd src/firewall-changer && go build",
+    "build:ts": "npx tsc -outDir dist",
+    "build:bin": "npx pkg package.json --targets node16-windows-x64 -o plugin/com.destiny.solo.enabler"
+  },
+  "dependencies": {
+    "@stream-deck-for-node/sdk": "1.0.15",
+    "ws": "^8.4.0"
+  },
+  "devDependencies": {
+    "@types/node": "^16.11.12",
+    "@types/ws": "^8.2.2",
+    "prettier": "^2.7.1",
+    "ts-node": "^10.4.0",
+    "typescript": "^4.5.3"
+  }
+}
