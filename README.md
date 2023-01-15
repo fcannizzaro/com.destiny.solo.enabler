@@ -7,16 +7,15 @@
     <img src="https://github.com/fcannizzaro/com.destiny.solo.enabler/actions/workflows/publish-plugin-package.yaml/badge.svg">
  </p>
 
-## Installation
+## Archivied
+This is now an action of [com.dim.streamdeck](https://github.com/dim-stream-deck/com.dim.streamdeck/wiki/Solo-Mode-(Action))
 
-Download the plugin from the [releases](https://github.com/fcannizzaro/com.destiny.solo.enabler/releases/latest)
 <!--
  or from below:
 [comment]: <>  [![download](https://github.com/fcannizzaro/com.destiny.solo.enabler/blob/main/media/download.png?raw=true)](https://apps.elgato.com/plugins/com.destiny.solo.enabler)
 -->
 
 ## Inspiration
-
 This project was inspired by [Destiny-2-Solo-Enabler](https://github.com/DrNoLife/Destiny-2-Solo-Enabler)
 
 ## Author
